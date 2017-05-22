@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ClassLocation</string>
+    <string name="location">Address: %1$s \nLatitude: %2$.6f \nLongitude: %3$.6f</string>
 </resources>
